@@ -114,4 +114,4 @@ if search_button and query:
         st.code(json_response, language="json")
 
 
-# paste in .env REPLICATE_API_TOKEN=r8_QnpZp5ohlk3ts9s4SvBJAJMkEnr81ic3psh0N 
+# added in notes while submitting the assignment, key that you're supposed to paste in env file 
