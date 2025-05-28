@@ -112,3 +112,6 @@ if search_button and query:
 
         st.subheader("📦 Structured JSON Output:")
         st.code(json_response, language="json")
+
+
+# paste in .env REPLICATE_API_TOKEN=r8_BS022pCOtd8Wp2Xjl3KJYELVu5c8Wet0t7Lzr
