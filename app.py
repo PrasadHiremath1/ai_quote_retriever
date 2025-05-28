@@ -114,4 +114,4 @@ if search_button and query:
         st.code(json_response, language="json")
 
 
-# paste in .env REPLICATE_API_TOKEN=r8_BS022pCOtd8Wp2Xjl3KJYELVu5c8Wet0t7Lzr
+# paste in .env REPLICATE_API_TOKEN=r8_QnpZp5ohlk3ts9s4SvBJAJMkEnr81ic3psh0N 
